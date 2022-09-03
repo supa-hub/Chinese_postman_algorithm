@@ -11,4 +11,4 @@ Utilise djikstra's algorithm to find the shortest route between pairs of odd ver
 Then to be able to return this information in the form of a python dictionary. This dictionary has the same kind of structure as a javascript dictionary.<br />
 <br />
 
-The code will be updated as these features are being added. Currently studying for high school finals tests, and coding is temporarily on hold<br />
+The code will be updated as these features are being added. Currently studying for high school finals tests, which is why coding is temporarily on hold.<br />
